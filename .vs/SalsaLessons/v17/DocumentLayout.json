@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|c:\\practicum\\c#\\asp .net\\salsalessons\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|c:\\practicum\\c#\\asp .net\\salsalessons\\mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|solutionrelative:mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|c:\\practicum\\c#\\asp .net\\salsalessons\\mvcmovie\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|solutionrelative:mvcmovie\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|c:\\practicum\\c#\\asp .net\\salsalessons\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|c:\\practicum\\c#\\asp .net\\salsalessons\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|c:\\practicum\\c#\\asp .net\\salsalessons\\mvcmovie\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|solutionrelative:mvcmovie\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D920A7D8-74D5-424D-82AF-34DBC303194A}|MvcMovie\\SalsaLessons.csproj|c:\\practicum\\c#\\asp .net\\salsalessons\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\Movie.cs",
+              "ToolTip": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:26:03.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MvcMovie\\wwwroot\\css\\site.css",
@@ -51,33 +68,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\Views\\Movies\\Create.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Create.cshtml",
               "ToolTip": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\Views\\Movies\\Create.cshtml",
               "RelativeToolTip": "MvcMovie\\Views\\Movies\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-31T10:44:13.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\Views\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Index.cshtml",
               "ToolTip": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\Views\\Movies\\Index.cshtml",
               "RelativeToolTip": "MvcMovie\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-31T10:37:20.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
@@ -89,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\Home\\Privacy.cshtml",
@@ -101,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\Home\\Index.cshtml",

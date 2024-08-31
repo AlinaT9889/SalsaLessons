@@ -6,8 +6,10 @@ public class Movie
 {
     public int Id { get; set; }
     public string? Title { get; set; }
+
     [DataType(DataType.Date)]
-    public DateTime ReleaseDate { get; set; }
-    public string? Genre { get; set; }
-    public decimal Price { get; set; }
+    public DateTime Date { get; set; }
+    public string? WarmUp { get; set; }
+    public string? Technics { get; set; }
+    public string? Choreo { get; set; }
 }
