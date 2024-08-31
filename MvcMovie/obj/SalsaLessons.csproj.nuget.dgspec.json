@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\SalsaLessons.csproj": {}
   },
   "projects": {
-    "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\SalsaLessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\MvcMovie.csproj",
-        "projectName": "MvcMovie",
-        "projectPath": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\SalsaLessons.csproj",
+        "projectName": "SalsaLessons",
+        "projectPath": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\SalsaLessons.csproj",
         "packagesPath": "C:\\Users\\aaa\\.nuget\\packages\\",
         "outputPath": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",

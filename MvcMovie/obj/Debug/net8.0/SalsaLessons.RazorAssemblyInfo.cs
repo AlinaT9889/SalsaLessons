@@ -11,13 +11,8 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MvcMovie")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ea44976af1a5fd1b95a2c0ad0a86bab7ad3d7cc")]
-[assembly: System.Reflection.AssemblyProductAttribute("MvcMovie")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MvcMovie")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ProvideApplicationPartFactoryAttribute("Microsoft.AspNetCore.Mvc.ApplicationParts.ConsolidatedAssemblyApplicationPartFact" +
+    "ory, Microsoft.AspNetCore.Mvc.Razor")]
 
 // Создано классом WriteCodeFragment MSBuild.
 

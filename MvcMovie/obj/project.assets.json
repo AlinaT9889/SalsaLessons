@@ -7857,11 +7857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Practicum\\C#\\ASP .NET\\Salsa-Lessons\\MvcMovie\\MvcMovie.csproj",
-      "projectName": "MvcMovie",
-      "projectPath": "C:\\Practicum\\C#\\ASP .NET\\Salsa-Lessons\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\SalsaLessons.csproj",
+      "projectName": "SalsaLessons",
+      "projectPath": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\SalsaLessons.csproj",
       "packagesPath": "C:\\Users\\aaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Practicum\\C#\\ASP .NET\\Salsa-Lessons\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Practicum\\C#\\ASP .NET\\SalsaLessons\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
