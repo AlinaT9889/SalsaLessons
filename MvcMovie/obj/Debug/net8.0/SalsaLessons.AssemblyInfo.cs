@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalsaLessons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02be001f6823fe78e89e9e2fe99d72d6066accb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71820e744f3151386ef845882abfda3d7d7d0122")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalsaLessons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalsaLessons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

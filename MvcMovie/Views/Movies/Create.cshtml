@@ -4,43 +4,39 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
-
-<h4>Movie</h4>
-<hr />
+<h4>Новое занятие</h4>
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-8">
+        <hr />
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Title" class="control-label"></label>
-                <input asp-for="Title" class="form-control" />
-                <span asp-validation-for="Title" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ReleaseDate" class="control-label"></label>
-                <input asp-for="ReleaseDate" class="form-control" />
+                <label asp-for="ReleaseDate" class="control-label">Дата</label>
+                <input type="date" asp-for="ReleaseDate" class="form-control" asp-format="dd-mm-yyyy" />
                 <span asp-validation-for="ReleaseDate" class="text-danger"></span>
             </div>
+            <p></p>
             <div class="form-group">
-                <label asp-for="Genre" class="control-label"></label>
-                <input asp-for="Genre" class="form-control" />
+                <label asp-for="Title" class="control-label">Разминка, техника, отработка</label>
+                <textarea asp-for="Title" class="form-control" /></textarea>
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <p></p>
+            <div class="form-group">
+                <label asp-for="Genre" class="control-label">Связка</label>
+                <textarea asp-for="Genre" class="form-control" /></textarea>
                 <span asp-validation-for="Genre" class="text-danger"></span>
             </div>
+            <p></p>
             <div class="form-group">
-                <label asp-for="Price" class="control-label"></label>
-                <input asp-for="Price" class="form-control" />
-                <span asp-validation-for="Price" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Создать" class="btn btn-primary" />
             </div>
         </form>
+        <hr />
     </div>
 </div>
-
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Назад к списку</a>
 </div>
 
 @section Scripts {
